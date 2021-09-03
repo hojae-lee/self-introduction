@@ -2679,7 +2679,7 @@ input, select, textarea {
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 50%;
+			width: 63%;
 		}
 
 			.features article .inner > :last-child {
@@ -3314,4 +3314,11 @@ input, select, textarea {
 				padding: 0;
 			}
 
+	}
+
+	.artDiv {
+		width: 35%;
+		display: inline-block;
+		padding-right: 2.5em;
+		vertical-align: middle;
 	}
