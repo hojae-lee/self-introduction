@@ -2210,7 +2210,7 @@ input, select, textarea {
 
 /* List */
 
-	ol {
+	/* ol {
 		list-style: decimal;
 		margin: 0 0 2.25em 0;
 		padding-left: 1.25em;
@@ -2218,7 +2218,7 @@ input, select, textarea {
 
 		ol li {
 			padding-left: 0.25em;
-		}
+		} */
 
 	ul {
 		list-style: disc;
@@ -3320,5 +3320,5 @@ input, select, textarea {
 		width: 35%;
 		display: inline-block;
 		padding-right: 2.5em;
-		vertical-align: middle;
+		vertical-align: top;
 	}
