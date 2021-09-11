@@ -123,6 +123,7 @@ input, select, textarea {
 	strong, b {
 		color: #777;
 		font-weight: 700;
+    font-size: 1.1em;
 	}
 
 	em, i {
@@ -3318,9 +3319,9 @@ input, select, textarea {
 
 	}
 
-	.artDiv {
-		width: 35%;
-		display: inline-block;
-		padding-right: 2.5em;
-		vertical-align: top;
-	}
+.artDiv {
+  width: 35%;
+  display: inline-block;
+  padding-right: 2.5em;
+  vertical-align: top;
+}
