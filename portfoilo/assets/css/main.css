@@ -2224,11 +2224,13 @@ input, select, textarea {
 		list-style: disc;
 		margin: 0 0 2.25em 0;
 		padding-left: 1em;
-		padding-top: 1em;
+		/* padding-top: 1em; */
 	}
 
 		ul li {
-			padding-left: 0.5em;
+			font-size: 0.7em;
+			/* overflow-wrap: break-word; */
+			/* padding-left: 0.5em; */
 		}
 
 		ul.alt {
