@@ -1,0 +1,23 @@
+#main {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+#sub {
+  position: relative;
+  width: 1150px;
+  margin: 0 auto;
+  padding: 120px 0 100px;
+}
+.aartImg {
+  width: 350px;
+  height: 200px;
+}
+.aartImg_pos {
+  width: 1050px;
+  height: 400px;
+}
+
+p {
+  font-size: 1.1em;
+}
